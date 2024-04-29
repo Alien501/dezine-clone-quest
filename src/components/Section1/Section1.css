@@ -39,8 +39,8 @@
     left: 0;
     right: 0;
     height: 100%;
-    background-image: linear-gradient(0deg, #ffffff 0%, rgba(255, 63, 0, 0) 27%);
-    opacity: .7;
+    background-image: linear-gradient(0deg, #ffffff 0%, rgba(255, 63, 0, 0) 22%);
+    opacity: .5;
     /* background-color: aliceblue; */
 }
 
