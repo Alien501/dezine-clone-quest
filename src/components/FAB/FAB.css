@@ -1,0 +1,46 @@
+.fab-bottom-right {
+    position: fixed;
+    right: 10px;
+    bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    width: max-content;
+    padding: 10px;
+    align-items: center;
+    color: #000;
+    width: 300px;
+    height: 20px;
+}
+
+.fab-icon-container {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    background-color: #efefef;
+    transition: .3S ease;
+}
+
+.fab-icon-container svg {
+    width: 25px;
+    height: 25px;
+}
+
+.fab-icon-container:hover {
+    cursor: pointer;
+}
+
+.fb:hover {
+    background-color: #4267B2;
+    color: #fff;
+}
+
+.x:hover {
+    background-color: #2f2a2a;
+    color: #fff;
+}
+
+.ln:hover {
+    background-color: #0078c7;
+}
