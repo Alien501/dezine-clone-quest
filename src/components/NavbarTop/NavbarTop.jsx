@@ -5,7 +5,7 @@ import './NavbarTop.css';
 import logo from '../../assets/logo.png';
 
 export default function NavbarTop() {
-    const [isClicked, setIsclicked] = useState(true);
+    const [isClicked, setIsclicked] = useState(false);
 
     return(
         <header className="navbar-top">
